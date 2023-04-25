@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "657622521271",
+    "project_id": "kanya-kavach",
+    "storage_bucket": "kanya-kavach.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657622521271:android:9f430286cf1073bbf3c432",
+        "android_client_info": {
+          "package_name": "com.example.kanyakavach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657622521271-0e4rga0l5vchrmau7c9ebiuptcnvgbp6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kanyakavach",
+            "certificate_hash": "79ad0d27ab024a50fad9d6c7e7d01e0e0e5cdf44"
+          }
+        },
+        {
+          "client_id": "657622521271-gahagfb84v4109r7mcj0lr4pnjh337b9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxtfWK7LTA_pg6EShAtytclyys1YW77Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657622521271-gahagfb84v4109r7mcj0lr4pnjh337b9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SafetyPin</string>
+    <string name="welcome_to">welcome to</string>
+    <string name="girl">girl</string>
+    <string name="let_s_get_started_text">Let\'s Get started</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="password">Password</string>
+    <string name="register_with_us">Register with us</string>
+    <string name="enter_your_email_and_password_to_login">Enter your email and password to login.</string>
+    <string name="please_click_back_again_to_exit">Please click back again to exit.</string>
+    <string name="please_wait">Please Wait&#8230;</string>
+    <string name="enable_disable">Enable/Disable</string>
+    <string name="sensor">sensor</string>
+    <string name="enabled">Enabled</string>
+    <string name="disable">Disable</string>
+    <string name="add_contacts">Add Contacts</string>
+</resources>
