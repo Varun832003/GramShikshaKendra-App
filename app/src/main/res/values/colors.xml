@@ -15,4 +15,9 @@
     <color name="secondary_text_color">#7A8089</color>
     <color name="hot_red">#FF0303</color>
     <color name="colorPrimary">#60B6F7</color>
+
+    <color name="book_handle">#5E222222</color>
+    <color name="gray">#F3F3F3</color>
+    <color name="text_gray">#B2222222</color>
+    <color name="shimmer_bg">#B2707070</color>
 </resources>

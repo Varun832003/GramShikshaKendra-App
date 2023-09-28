@@ -29,7 +29,7 @@ class SplashActivity : AppCompatActivity() {
             val currentUser= FirebaseAuth.getInstance().currentUser
             if(currentUser!= null)
             {
-                startActivity(Intent(this, contacts::class.java))
+                startActivity(Intent(this, LandingActivity::class.java))
             }else{
                 startActivity(Intent(this, IntroActivity::class.java))
             }

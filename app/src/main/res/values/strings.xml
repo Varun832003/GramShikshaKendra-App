@@ -1,7 +1,6 @@
 <resources>
-    <string name="app_name">SafetyPin</string>
-    <string name="welcome_to">welcome to</string>
-    <string name="girl">girl</string>
+    <string name="app_name">GramShiksha</string>
+    <string name="welcome_to">Welcome to</string>
     <string name="let_s_get_started_text">Let\'s Get started</string>
     <string name="sign_in">SIGN IN</string>
     <string name="sign_up">SIGN UP</string>
@@ -18,4 +17,8 @@
     <string name="enabled">Enabled</string>
     <string name="disable">Disable</string>
     <string name="add_contacts">Add Contacts</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="don_t_have_an_account_yet_register">Don\'t have an account yet? Register</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

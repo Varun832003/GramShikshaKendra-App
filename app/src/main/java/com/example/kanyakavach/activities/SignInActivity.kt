@@ -37,7 +37,7 @@ class SignInActivity : BaseActivity() {
     fun signedInSuccess(user: User)
     {
         hideProgressDialog()
-        startActivity(Intent(this@SignInActivity,contacts::class.java))
+        startActivity(Intent(this@SignInActivity,LandingActivity::class.java))
         finish()
     }
 

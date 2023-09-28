@@ -23,14 +23,17 @@ class SignUpActivity : BaseActivity() {
         )
 
         setUpActionBar()
-        btn_sign_up.setOnClickListener { registerUser() }
-    }
+        btn_sign_up.setOnClickListener {
+            registerUser() }
+
+        }
+
 
     fun userRegisteredSuccess(){
         Toast.makeText(this@SignUpActivity, "you have successfully registered the email address", Toast.LENGTH_LONG).show()
         hideProgressDialog()
         FirebaseAuth.getInstance().signOut()
-        startActivity(Intent(this@SignUpActivity, contacts::class.java))
+        startActivity(Intent(this@SignUpActivity, LandingActivity::class.java))
         finish()
 
     }

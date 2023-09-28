@@ -17,8 +17,9 @@
         android:layout_gravity="center_horizontal"
         android:textColor="@color/black1"
         android:gravity="center_horizontal"
-        android:textSize="24sp"
-        android:textStyle="bold" />
+        android:textSize="27sp"
+        android:textStyle="bold"
+        android:fontFamily="@font/lexend_light"/>
 
     <TextView
         android:id="@+id/tv_app_name_intro"
@@ -29,7 +30,8 @@
         android:gravity="center_horizontal"
         android:textColor="@color/black1"
         android:textSize="@dimen/intro_screen_title_text_size"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        android:fontFamily="@font/lexend_light"/>
 
     <FrameLayout
         android:layout_width="350dp"
@@ -43,18 +45,12 @@
 
         <ImageView
             android:layout_width="152.16dp"
-            android:layout_height="168.59dp"
-            android:layout_marginStart="49.52sp"
-            android:contentDescription="@string/girl"
-            android:src="@drawable/img" />
+            android:layout_height="190dp"
+            android:layout_marginStart="100sp"
+            android:src="@drawable/gramshikshalogo"
+            />
 
-        <ImageView
-            android:layout_width="165.97dp"
-            android:layout_height="53.97dp"
-            android:layout_marginStart="168.78sp"
-            android:layout_marginTop="10.75sp"
-            android:contentDescription="@string/app_name"
-            android:src="@drawable/img_1" />
+
 
     </FrameLayout>
 
@@ -66,7 +62,8 @@
         android:layout_marginBottom="20dp"
         android:text="@string/let_s_get_started_text"
         android:textColor="@color/black"
-        android:textSize="@dimen/lets_get_started_text_size" />
+        android:textSize="@dimen/lets_get_started_text_size"
+        android:fontFamily="@font/lexend_light"/>
 
 
     <Button
